@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/azizm/.m2/repository/org/openjfx/javafx-controls/17-ea+11/javafx-controls-17-ea+11-win.jar" sourcepath="C:/Users/azizm/.m2/repository/org/openjfx/javafx-controls/17-ea+11/javafx-controls-17-ea+11-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-controls"/>
+			<attribute name="maven.version" value="17-ea+11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/azizm/.m2/repository/org/openjfx/javafx-graphics/17-ea+11/javafx-graphics-17-ea+11-win.jar" sourcepath="C:/Users/azizm/.m2/repository/org/openjfx/javafx-graphics/17-ea+11/javafx-graphics-17-ea+11-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-graphics"/>
+			<attribute name="maven.version" value="17-ea+11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/azizm/.m2/repository/org/controlsfx/controlsfx/11.1.0/controlsfx-11.1.0.jar" sourcepath="C:/Users/azizm/.m2/repository/org/controlsfx/controlsfx/11.1.0/controlsfx-11.1.0-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.controlsfx"/>
+			<attribute name="maven.artifactId" value="controlsfx"/>
+			<attribute name="maven.version" value="11.1.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/azizm/.m2/repository/org/openjfx/javafx-media/17-ea+18/javafx-media-17-ea+18-win.jar" sourcepath="C:/Users/azizm/.m2/repository/org/openjfx/javafx-media/17-ea+18/javafx-media-17-ea+18-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-media"/>
+			<attribute name="maven.version" value="17-ea+18"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/azizm/.m2/repository/org/kordamp/bootstrapfx/bootstrapfx-core/0.4.0/bootstrapfx-core-0.4.0.jar" sourcepath="C:/Users/azizm/.m2/repository/org/kordamp/bootstrapfx/bootstrapfx-core/0.4.0/bootstrapfx-core-0.4.0-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.kordamp.bootstrapfx"/>
+			<attribute name="maven.artifactId" value="bootstrapfx-core"/>
+			<attribute name="maven.version" value="0.4.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/azizm/.m2/repository/com/dlsc/formsfx/formsfx-core/11.3.2/formsfx-core-11.3.2.jar" sourcepath="C:/Users/azizm/.m2/repository/com/dlsc/formsfx/formsfx-core/11.3.2/formsfx-core-11.3.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.dlsc.formsfx"/>
+			<attribute name="maven.artifactId" value="formsfx-core"/>
+			<attribute name="maven.version" value="11.3.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/azizm/.m2/repository/org/openjfx/javafx-fxml/17-ea+11/javafx-fxml-17-ea+11-win.jar" sourcepath="C:/Users/azizm/.m2/repository/org/openjfx/javafx-fxml/17-ea+11/javafx-fxml-17-ea+11-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.openjfx"/>
+			<attribute name="maven.artifactId" value="javafx-fxml"/>
+			<attribute name="maven.version" value="17-ea+11"/>
+			<attribute name="maven.classifier" value="win"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javaFX">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
